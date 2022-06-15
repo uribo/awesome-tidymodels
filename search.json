@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "video.html",
+    "href": "video.html",
+    "title": "Video",
+    "section": "",
+    "text": "title\n      authors\n      level\n      pickup"
+  },
+  {
+    "objectID": "post.html",
+    "href": "post.html",
+    "title": "Post",
+    "section": "",
+    "text": "title\n      authors\n      level\n      pickup"
+  },
+  {
+    "objectID": "book.html",
+    "href": "book.html",
+    "title": "Book",
+    "section": "",
+    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Feature Engineering and Selection: A Practical Approach for Predictive Models\nMax Kuhn( topepo), Kjell Johnson\ngeneral\nTRUE\n    Supervised Machine Learning for Text Analysis in R\nEmil Hvitfeldt( EmilHvitfeldt), Julia Silge( juliasilge)\nadvanced\nTRUE\n    Tidy Modeling with R\nMax Kuhn( topepo), Julia Silge( juliasilge)\ngeneral\nTRUE"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AWESOME tidymodels",
+    "section": "",
+    "text": "A comprehensive list of resources that provide awesome information about tidymodels.\nThere is a page for each type of resource."
+  },
+  {
+    "objectID": "index.html#pick-up",
+    "href": "index.html#pick-up",
+    "title": "AWESOME tidymodels",
+    "section": " Pick up",
+    "text": "Pick up\n\n\n\n\n\n\n  \n  \n    \n      title\n      authors\n      resource_type\n      level\n    \n  \n  \n    Create machine learning models with R and tidymodels\nMicrosoft\ncourse\nbeginner\n    Feature Engineering and Selection: A Practical Approach for Predictive Models\nMax Kuhn( topepo), Kjell Johnson\nbook\ngeneral\n    Supervised Machine Learning for Text Analysis in R\nEmil Hvitfeldt( EmilHvitfeldt), Julia Silge( juliasilge)\nbook\nadvanced\n    Tidy Modeling with R\nMax Kuhn( topepo), Julia Silge( juliasilge)\nbook\ngeneral\n    Tidy your mental models\nAlison Hill( apreshill)\nslide\nbeginner"
+  },
+  {
+    "objectID": "index.html#contributing",
+    "href": "index.html#contributing",
+    "title": "AWESOME tidymodels",
+    "section": " Contributing",
+    "text": "Contributing\nYour contributions are always welcome! If you would like to contribute to this list (please do), create an issue or send a mentions to @u_ribo.\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - CC BY-NC 4.0"
+  },
+  {
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slide",
+    "section": "",
+    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Tidy your mental models\nAlison Hill( apreshill)\nbeginner\nTRUE"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Course",
+    "section": "",
+    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Create machine learning models with R and tidymodels\nMicrosoft\nbeginner\nTRUE"
+  }
+]
