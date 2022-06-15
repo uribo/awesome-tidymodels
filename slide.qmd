@@ -1,0 +1,19 @@
+---
+title: "Slide"
+---
+
+```{r}
+#| include: false
+source(here::here("data-raw/awesome_list.R"))
+source(here::here("R/awesome_list.R"))
+```
+
+```{r}
+#| eval: true
+#| echo: false
+df_awesome |> 
+  dplyr::filter(resource_type == "slide") |> 
+  create_awesome_df(df_users) |> 
+  dplyr::select(!resource_type) |> 
+  gt_export()
+```

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "AWESOME tidymodels"
+  navbar:
+    pinned: true
+    background: info
+    foreground: light
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - book.qmd
+      - course.qmd
+      - post.qmd
+      - slide.qmd
+      - video.qmd
+  repo-url: https://github.com/uribo/awesome-tidymodels
+  repo-actions: [issue]
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
