@@ -3,6 +3,7 @@ source(here::here("R/gt_formatter.R"))
 df_awesome <-
   tibble::tribble(
     ~title, ~authors, ~url, ~resource_type, ~level, ~note, ~pickup,
+    "Machine Learning with tidymodels", c("Julia Silge", "Max Kuhn", "David Robinson"), "https://workshops.tidymodels.org", "course", "beginner", NA_character_, TRUE,
     "Create machine learning models with R and tidymodels",
     "Microsoft", "https://docs.microsoft.com/en-us/learn/paths/machine-learning-with-r/", 
     "course", "beginner", NA_character_, TRUE,
@@ -65,6 +66,7 @@ df_users <-
     "Emil Hvitfeldt", "Emil_Hvitfeldt", "EmilHvitfeldt",
     "Kjell Johnson", NA_character_, NA_character_,
     "Max Kuhn", "topepos", "topepo",
+    "David Robinson", "drob", "dgrtwo",
     "Julia Silge", "juliasilge", "juliasilge",
     "Alison Hill", "apreshill", "apreshill",
     "Ringa_hyj", "Ringa_hyj", "amazongodman",
