@@ -7,11 +7,11 @@
     "text": "title\n      authors\n      level\n      pickup"
   },
   {
-    "objectID": "post.html",
-    "href": "post.html",
-    "title": "Post",
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Course",
     "section": "",
-    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Get started with tidymodels and #TidyTuesday Palmer penguins\nJulia Silge( juliasilge)\nbeginner\nFALSE\n    Tidymodels: tidy machine learning in R\nRebecca Barter( rlbarter)\nadvanced\nFALSE\n    tidymodelsによるtidyな機械学習（その3：ハイパーパラメータのチューニング）\n森下 光之助( dropout009)\nadvanced\nFALSE\n    Tidymodels DVC Mashup\nSean Lopp( slopp)\nadvanced\nFALSE\n    Classification with Tidymodels, Workflows and Recipes\nJan Kirenz( kirenz)\nbeginner\nFALSE"
+    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Machine Learning with tidymodels\nJulia Silge( juliasilge), Max Kuhn( topepo), David Robinson( dgrtwo)\nbeginner\nTRUE\n    Create machine learning models with R and tidymodels\nMicrosoft\nbeginner\nTRUE\n    Data Preprocessing Cookbook\nShinya Uryu( uribo)\nbeginner\nFALSE"
   },
   {
     "objectID": "book.html",
@@ -19,6 +19,27 @@
     "title": "Book",
     "section": "",
     "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Feature Engineering and Selection: A Practical Approach for Predictive Models\nMax Kuhn( topepo), Kjell Johnson\ngeneral\nTRUE\n    tidy-apm\nMax Kuhn( topepo)\nadvanced\nFALSE\n    ISLR tidymodels Labs\nEmil Hvitfeldt( EmilHvitfeldt)\nadvanced\nFALSE\n    Supervised Machine Learning for Text Analysis in R\nEmil Hvitfeldt( EmilHvitfeldt), Julia Silge( juliasilge)\nadvanced\nTRUE\n    Tidy Modeling with R\nMax Kuhn( topepo), Julia Silge( juliasilge)\ngeneral\nTRUE\n    Hands-On Machine Learning with R\nBradley Boehmke( bradleyboehmke), Brandon Greenwell( bgreenwell)\nbeginner\nFALSE\n    Practical Data Science with R and Python\nShinya Uryu( uribo)\nbeginner\nFALSE"
+  },
+  {
+    "objectID": "slide.html",
+    "href": "slide.html",
+    "title": "Slide",
+    "section": "",
+    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Tidy your mental models\nAlison Hill( apreshill)\nbeginner\nTRUE\n    Catching up with the tidymodels\nRinga_hyj( amazongodman)\nbeginner\nFALSE\n    tidymodelsで覚えるRでのモデル構築と運用\nShinya Uryu( uribo)\nbeginner\nFALSE"
+  },
+  {
+    "objectID": "post.html",
+    "href": "post.html",
+    "title": "Post",
+    "section": "",
+    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Get started with tidymodels and #TidyTuesday Palmer penguins\nJulia Silge( juliasilge)\nbeginner\nFALSE\n    Tidymodels: tidy machine learning in R\nRebecca Barter( rlbarter)\nadvanced\nFALSE\n    tidymodelsによるtidyな機械学習（その3：ハイパーパラメータのチューニング）\n森下 光之助( dropout009)\nadvanced\nFALSE\n    Tidymodels DVC Mashup\nSean Lopp( slopp)\nadvanced\nFALSE\n    Classification with Tidymodels, Workflows and Recipes\nJan Kirenz( kirenz)\nbeginner\nFALSE"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
@@ -32,7 +53,7 @@
     "href": "index.html#pick-up",
     "title": "AWESOME tidymodels",
     "section": " Pick up",
-    "text": "Pick up\n\n\n\n\n\n\n  \n  \n    \n      title\n      authors\n      resource_type\n      level\n    \n  \n  \n    Create machine learning models with R and tidymodels\nMicrosoft\ncourse\nbeginner\n    Feature Engineering and Selection: A Practical Approach for Predictive Models\nMax Kuhn( topepo), Kjell Johnson\nbook\ngeneral\n    Supervised Machine Learning for Text Analysis in R\nEmil Hvitfeldt( EmilHvitfeldt), Julia Silge( juliasilge)\nbook\nadvanced\n    Tidy Modeling with R\nMax Kuhn( topepo), Julia Silge( juliasilge)\nbook\ngeneral\n    Tidy your mental models\nAlison Hill( apreshill)\nslide\nbeginner"
+    "text": "Pick up\n\n\n\n\n\n\n  \n  \n    \n      title\n      authors\n      resource_type\n      level\n    \n  \n  \n    Machine Learning with tidymodels\nJulia Silge( juliasilge), Max Kuhn( topepo), David Robinson( dgrtwo)\ncourse\nbeginner\n    Create machine learning models with R and tidymodels\nMicrosoft\ncourse\nbeginner\n    Feature Engineering and Selection: A Practical Approach for Predictive Models\nMax Kuhn( topepo), Kjell Johnson\nbook\ngeneral\n    Supervised Machine Learning for Text Analysis in R\nEmil Hvitfeldt( EmilHvitfeldt), Julia Silge( juliasilge)\nbook\nadvanced\n    Tidy Modeling with R\nMax Kuhn( topepo), Julia Silge( juliasilge)\nbook\ngeneral\n    Tidy your mental models\nAlison Hill( apreshill)\nslide\nbeginner"
   },
   {
     "objectID": "index.html#contributing",
@@ -40,26 +61,5 @@
     "title": "AWESOME tidymodels",
     "section": " Contributing",
     "text": "Contributing\nYour contributions are always welcome! If you would like to contribute to this list (please do), create an issue or send a mentions to @u_ribo.\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - CC BY-NC 4.0"
-  },
-  {
-    "objectID": "slide.html",
-    "href": "slide.html",
-    "title": "Slide",
-    "section": "",
-    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Tidy your mental models\nAlison Hill( apreshill)\nbeginner\nTRUE\n    Catching up with the tidymodels\nRinga_hyj( amazongodman)\nbeginner\nFALSE\n    tidymodelsで覚えるRでのモデル構築と運用\nShinya Uryu( uribo)\nbeginner\nFALSE"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "course.html",
-    "href": "course.html",
-    "title": "Course",
-    "section": "",
-    "text": "title\n      authors\n      level\n      pickup\n    \n  \n  \n    Create machine learning models with R and tidymodels\nMicrosoft\nbeginner\nTRUE\n    Data Preprocessing Cookbook\nShinya Uryu( uribo)\nbeginner\nFALSE"
   }
 ]
